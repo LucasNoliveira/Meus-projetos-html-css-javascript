@@ -8,7 +8,6 @@
 <a href="#">Sistema de cadastro</a> <br>
 <a href="#">Landing page</a> <br>
 <a href="#">Landing page</a> <br>
-<a href="#">Landing page</a> <br>
 <a href="#">Cadastro de produtos</a> <br>
 <a href="#">Blog</a> <br>
 <a href="#">email marketing</a> <br>
